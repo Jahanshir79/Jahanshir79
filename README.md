@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋  
+I’m a Front-End Developer🫧 with a passion for building scalable, real-time dashboards using React.js and Next.js.  
+Currently working on SCADA systems, energy monitoring, and R&D in UI optimization.
 
-<!--
-**Jahanshir79/Jahanshir79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 A little more about me...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```ts
+const ryhnjhr79 = {
+  name: "Fatemeh Jahanshir",
+  role: "Front-End Developer",
+  location: "Iran",
+  email: "ryhnjhr79@gmail.com",
+  telegram: "@ryhnjhr79",
+  techStack: {
+    frontend: [
+      "React.js", "Next.js", "TypeScript", "JavaScript",
+      "Tailwind CSS", "Ant Design", "ShadCN", "Bootstrap", "SCSS"
+    ],
+    stateManagement: ["Redux", "Zustand", "Context API"],
+    dataViz: ["ApexCharts", "Chart.js", "GO.js", "Leaflet"],
+    realTime: ["WebSocket", "Socket.IO"],
+    tools: ["Git", "GitLab", "Jira", "Slack", "Figma", "Vite", "Webpack"]
+  },
+  currentFocus: "SCADA dashboards and real-time data visualization",
+  funFact: "Energy data is my canvas. I turn numbers into insights ⚡"
+};
